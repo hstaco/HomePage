@@ -1,0 +1,22 @@
+.avatar-group{
+    display: inline-flex;
+}
+.avatar {
+    margin-right: -20px;
+}
+.rounded-circle {
+    border-radius: 50% !important;
+}
+.translateX-axis:hover{
+    margin-right: -10px
+}
+.card-product-horizontal-content-title{
+    display: inline-block;
+}
+.card-product-horizontal-content-rate{
+    margin-left: 20px;
+    margin-top: 0;
+}
+.hov-mo:hover{
+    box-shadow: 3px 3px 3px #aaaaaa;
+}
